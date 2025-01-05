@@ -1,0 +1,29 @@
+body {
+    min-height:1000px;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #123c69;
+}
+
+#activity {
+    background-color: #ac3b61;;
+}
+h1 {
+    font-family: "Purple Purse", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffff;
+  }
+p {
+    font-family: "Jacques Francois", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.myprofile{
+  padding-top: ;
+}
+.table-container {
+  max-width: 800px;
+  margin: auto;
+}
